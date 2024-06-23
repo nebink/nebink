@@ -6,11 +6,10 @@
 
 - 🌱 I’m currently learning **Tableau**
 
-- 💬 Ask me about **flutter , python , app development**
+- 💬 Ask me about **Data visualization, Tableau, Power BI, SQL, Database, Python, R**
 
 - 📫 How to reach me **nebinkraj@gmail.com**
 
-- ⚡ Fun fact **There is no fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
