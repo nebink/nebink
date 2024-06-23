@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nebin</h1>
-<h3 align="center">A passionate student</h3>
+<h3 align="center">Junior Data analyst</h3>
 
 
 <p align="left"> <a href="https://twitter.com/k_nebin" target="blank"><img src="https://img.shields.io/twitter/follow/k_nebin?logo=twitter&style=for-the-badge" alt="k_nebin" /></a> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Tableau**
 
 - 💬 Ask me about **flutter , python , app development**
 
