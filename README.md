@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nebin</h1>
-<h3 align="center">Junior Data analyst</h3>
+<h3 align="center">ML / Data Sciecne</h3>
 
 
 <p align="left"> <a href="https://twitter.com/k_nebin" target="blank"><img src="https://img.shields.io/twitter/follow/k_nebin?logo=twitter&style=for-the-badge" alt="k_nebin" /></a> </p>
 
 - 🌱 I’m currently learning **LLM**
 
-- 💬 Ask me about **Data visualization, Tableau, Power BI, SQL, Database, Python, R**
+- 💬 Ask me about **Data visualization, ML, DL, neural-network**
 
 - 📫 How to reach me **nebinkraj@gmail.com**
 
