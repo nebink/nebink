@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/k_nebin" target="blank"><img src="https://img.shields.io/twitter/follow/k_nebin?logo=twitter&style=for-the-badge" alt="k_nebin" /></a> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **ML, DL, IOS Development**
 
